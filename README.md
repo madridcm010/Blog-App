@@ -12,7 +12,7 @@ This project was born out of love and necessity — to give voice to the silent 
 
 ## 🛠️ Tech Stack
 
-| Layer         | Technology Used                     |
+| Layer        | Technology Used                     |
 |--------------|--------------------------------------|
 | Frontend     | Angular (Responsive Design)          |
 | Backend      | .NET 8 (ASP.NET Core Web API)        |
