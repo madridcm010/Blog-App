@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mike/CrystalGallery/Blog/back-end/back-end.csproj": {}
+    "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj": {}
   },
   "projects": {
-    "/home/mike/CrystalGallery/Blog/back-end/back-end.csproj": {
+    "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mike/CrystalGallery/Blog/back-end/back-end.csproj",
+        "projectUniqueName": "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj",
         "projectName": "back-end",
-        "projectPath": "/home/mike/CrystalGallery/Blog/back-end/back-end.csproj",
+        "projectPath": "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj",
         "packagesPath": "/home/mike/.nuget/packages/",
-        "outputPath": "/home/mike/CrystalGallery/Blog/back-end/obj/",
+        "outputPath": "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mike/.nuget/NuGet/NuGet.Config"

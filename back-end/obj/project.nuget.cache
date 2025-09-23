@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nqz5ZYpYga8Uj6I6DDPpfVeAkJKSaVF88wves3NPo4POsKWXWhK52dZAg7uqvd0bP38Ov5No34Ox+ypxVwCWZQ==",
+  "dgSpecHash": "JTiotIst95E6wSasDjhUitOSR1SK8p3fck+t6kjH++K8eGnIcub4/hYPDpXgdZptKC0zLmwTA80mkjt2U3n4aQ==",
   "success": true,
-  "projectFilePath": "/home/mike/CrystalGallery/Blog/back-end/back-end.csproj",
+  "projectFilePath": "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj",
   "expectedPackageFiles": [
     "/home/mike/.nuget/packages/microsoft.aspnetcore.openapi/8.0.17/microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
     "/home/mike/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
