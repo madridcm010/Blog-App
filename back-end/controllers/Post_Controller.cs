@@ -8,7 +8,7 @@ namespace back_end.controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class Users_Controller : ControllerBase
+    public class Post_controller : ControllerBase
     {
         
     }
