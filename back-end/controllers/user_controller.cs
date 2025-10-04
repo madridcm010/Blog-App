@@ -10,6 +10,12 @@ namespace back_end.controllers
     [Route("api/[controller]")]
     public class Users_Controller : ControllerBase
     {
-        
+        [HttpGet]
+
+        public IActionResult GetUsers()
+        {
+            
+        }
+
     }
 }
