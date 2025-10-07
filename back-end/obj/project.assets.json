@@ -482,24 +482,26 @@
     ]
   },
   "packageFolders": {
-    "/home/mike/.nuget/packages/": {}
+    "C:\\Users\\Christian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mike/CrystalGallery/Blog/back-end/back-end.csproj",
+      "projectUniqueName": "D:\\Blog\\CrystalCourage\\back-end\\back-end.csproj",
       "projectName": "back-end",
-      "projectPath": "/home/mike/CrystalGallery/Blog/back-end/back-end.csproj",
-      "packagesPath": "/home/mike/.nuget/packages/",
-      "outputPath": "/home/mike/CrystalGallery/Blog/back-end/obj/",
+      "projectPath": "D:\\Blog\\CrystalCourage\\back-end\\back-end.csproj",
+      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+      "outputPath": "D:\\Blog\\CrystalCourage\\back-end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mike/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -512,6 +514,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -546,7 +553,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
