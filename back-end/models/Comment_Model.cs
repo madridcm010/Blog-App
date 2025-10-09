@@ -1,8 +1,13 @@
-internal class CommentModel
+namespace back_end.models
 {
-    public required string PostID { get; set; }
-    public required string UserID { get; set; }
-    public required string Content { get; set; }
-    public DateTime? CreatedAt { get; set; }
-    public bool IsDeleted { get; set; }
+    public class CommentModel
+    {
+        public required Guid PostID { get; set; }
+        public required Guid UserID { get; set; }
+        public required string Content { get; set; }
+        public DateTime? CreatedAt { get; set; }
+        public bool IsDeleted { get; set; }
+        public UserModel? User { get; set; }
+        public PostModel? Post { get; set; }
+    }
 }
