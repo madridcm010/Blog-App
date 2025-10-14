@@ -1,7 +1,12 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace back_end.models
 {
     public class CommentModel
     {
+        [Key]
+        public int CommentId { get; set; }
+
         public required Guid PostID { get; set; }
         public required Guid UserID { get; set; }
         public required string Content { get; set; }
