@@ -1,7 +1,10 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace back_end.models
 {
     public class PostModel
     {
+        [Key]
         public required Guid PostID { get; set; }
         public required Guid UserID { get; set; }
         public required string Title { get; set; }

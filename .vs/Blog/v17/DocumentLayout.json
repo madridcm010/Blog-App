@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "D:\\Blog\\CrystalCourage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\controllers\\user_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\user_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\back-end.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\back-end.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\controllers\\post_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\post_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\dtos\\user\\user_create_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\user\\user_create_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\mappers\\user_mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\mappers\\user_mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\models\\user_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\user_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\controllers\\comment_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\comment_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\dtos\\comment\\comment_response_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\comment\\comment_response_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\dtos\\comment\\comment_create_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\comment\\comment_create_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,48 +71,20 @@
       "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\dtos\\comment\\comment_create_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\comment\\comment_create_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\models\\comment_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\comment_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\models\\user_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\user_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\models\\post_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\post_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\controllers\\user_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\user_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\controllers\\comment_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\comment_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\controllers\\post_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\post_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\dtos\\comment\\comment_response_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\comment\\comment_response_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\models\\comment_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\comment_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\dtos\\post\\post_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\post\\post_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|solutionrelative:back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DAC22B3-58E2-61B4-AEB9-A7677520B1AA}|back-end\\back-end.csproj|d:\\blog\\crystalcourage\\back-end\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -86,20 +98,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "User_Create_Dto.cs",
               "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\User\\User_Create_Dto.cs",
               "RelativeDocumentMoniker": "back-end\\dtos\\User\\User_Create_Dto.cs",
               "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\User\\User_Create_Dto.cs",
               "RelativeToolTip": "back-end\\dtos\\User\\User_Create_Dto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T02:58:18.473Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "back-end.http",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\back-end.http",
+              "RelativeDocumentMoniker": "back-end\\back-end.http",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\back-end.http*",
+              "RelativeToolTip": "back-end\\back-end.http*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-14T03:21:59.816Z",
               "EditorCaption": ""
             },
             {
@@ -108,80 +133,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\ICommentRepository.cs",
-              "RelativeDocumentMoniker": "back-end\\Interfaces\\ICommentRepository.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\ICommentRepository.cs",
-              "RelativeToolTip": "back-end\\Interfaces\\ICommentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "User_Controller.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\User_Controller.cs",
+              "RelativeDocumentMoniker": "back-end\\controllers\\User_Controller.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\User_Controller.cs",
+              "RelativeToolTip": "back-end\\controllers\\User_Controller.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwDMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T21:32:26.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPostRepository.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IPostRepository.cs",
-              "RelativeDocumentMoniker": "back-end\\Interfaces\\IPostRepository.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IPostRepository.cs",
-              "RelativeToolTip": "back-end\\Interfaces\\IPostRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T21:32:17.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "back-end\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "back-end\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T21:02:55.528Z",
+              "WhenOpened": "2025-10-05T02:57:56.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\repository\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "back-end\\repository\\CommentRepository.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\repository\\CommentRepository.cs",
-              "RelativeToolTip": "back-end\\repository\\CommentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T21:41:18.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\repository\\PostRepository.cs",
-              "RelativeDocumentMoniker": "back-end\\repository\\PostRepository.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\repository\\PostRepository.cs",
-              "RelativeToolTip": "back-end\\repository\\PostRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T21:41:06.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "back-end\\repository\\UserRepository.cs",
               "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\repository\\UserRepository.cs",
               "RelativeToolTip": "back-end\\repository\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T21:05:45.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "back-end\\data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "back-end\\data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:58:20.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\appsettings.json",
+              "RelativeDocumentMoniker": "back-end\\appsettings.json",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\appsettings.json",
+              "RelativeToolTip": "back-end\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T22:54:26.278Z",
               "EditorCaption": ""
             },
             {
@@ -190,7 +189,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Program.cs",
+              "RelativeDocumentMoniker": "back-end\\Program.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Program.cs",
+              "RelativeToolTip": "back-end\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:58:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comment_Response_Dto.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
+              "RelativeDocumentMoniker": "back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
+              "RelativeToolTip": "back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:53:57.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Post_Controller.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\Post_Controller.cs",
+              "RelativeDocumentMoniker": "back-end\\controllers\\Post_Controller.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\Post_Controller.cs",
+              "RelativeToolTip": "back-end\\controllers\\Post_Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:24:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User_Model.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\models\\User_Model.cs",
+              "RelativeDocumentMoniker": "back-end\\models\\User_Model.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\models\\User_Model.cs",
+              "RelativeToolTip": "back-end\\models\\User_Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:58:08.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "back-end\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "back-end\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:02:55.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User_Mapper.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\mappers\\User_Mapper.cs",
+              "RelativeDocumentMoniker": "back-end\\mappers\\User_Mapper.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\mappers\\User_Mapper.cs",
+              "RelativeToolTip": "back-end\\mappers\\User_Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:47:04.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Comment_Create_Dto.cs",
               "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\Comment\\Comment_Create_Dto.cs",
               "RelativeDocumentMoniker": "back-end\\dtos\\Comment\\Comment_Create_Dto.cs",
@@ -203,67 +280,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Post_Model.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\models\\Post_Model.cs",
-              "RelativeDocumentMoniker": "back-end\\models\\Post_Model.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\models\\Post_Model.cs",
-              "RelativeToolTip": "back-end\\models\\Post_Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "DocumentIndex": 14,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "back-end\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "back-end\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:03:06.058Z"
+              "WhenOpened": "2025-10-08T21:32:26.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "back-end\\data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "back-end\\data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:58:20.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User_Model.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\models\\User_Model.cs",
-              "RelativeDocumentMoniker": "back-end\\models\\User_Model.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\models\\User_Model.cs",
-              "RelativeToolTip": "back-end\\models\\User_Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:58:08.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Comment_Model.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\models\\Comment_Model.cs",
-              "RelativeDocumentMoniker": "back-end\\models\\Comment_Model.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\models\\Comment_Model.cs",
-              "RelativeToolTip": "back-end\\models\\Comment_Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:03:05.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User_Controller.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\User_Controller.cs",
-              "RelativeDocumentMoniker": "back-end\\controllers\\User_Controller.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\User_Controller.cs",
-              "RelativeToolTip": "back-end\\controllers\\User_Controller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:57:56.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Comment_Controller.cs",
               "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\Comment_Controller.cs",
               "RelativeDocumentMoniker": "back-end\\controllers\\Comment_Controller.cs",
@@ -271,35 +301,77 @@
               "RelativeToolTip": "back-end\\controllers\\Comment_Controller.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:24:45.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Post_Controller.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\Post_Controller.cs",
-              "RelativeDocumentMoniker": "back-end\\controllers\\Post_Controller.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\controllers\\Post_Controller.cs",
-              "RelativeToolTip": "back-end\\controllers\\Post_Controller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:24:45.773Z"
+              "WhenOpened": "2025-10-06T03:24:45.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Comment_Response_Dto.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
-              "RelativeDocumentMoniker": "back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
-              "RelativeToolTip": "back-end\\dtos\\Comment\\Comment_Response_Dto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "back-end\\Interfaces\\IPostRepository.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Interfaces\\IPostRepository.cs",
+              "RelativeToolTip": "back-end\\Interfaces\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T19:53:57.514Z"
+              "WhenOpened": "2025-10-08T21:32:17.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\repository\\PostRepository.cs",
+              "RelativeDocumentMoniker": "back-end\\repository\\PostRepository.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\repository\\PostRepository.cs",
+              "RelativeToolTip": "back-end\\repository\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:41:06.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "back-end\\repository\\CommentRepository.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\repository\\CommentRepository.cs",
+              "RelativeToolTip": "back-end\\repository\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:41:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Post_Model.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\models\\Post_Model.cs",
+              "RelativeDocumentMoniker": "back-end\\models\\Post_Model.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\models\\Post_Model.cs",
+              "RelativeToolTip": "back-end\\models\\Post_Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:03:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comment_Model.cs",
+              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\models\\Comment_Model.cs",
+              "RelativeDocumentMoniker": "back-end\\models\\Comment_Model.cs",
+              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\models\\Comment_Model.cs",
+              "RelativeToolTip": "back-end\\models\\Comment_Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:03:05.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Post_Dto.cs",
               "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\dtos\\Post\\Post_Dto.cs",
               "RelativeDocumentMoniker": "back-end\\dtos\\Post\\Post_Dto.cs",
@@ -307,23 +379,12 @@
               "RelativeToolTip": "back-end\\dtos\\Post\\Post_Dto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T03:03:19.222Z"
+              "WhenOpened": "2025-10-05T03:03:19.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\Program.cs",
-              "RelativeDocumentMoniker": "back-end\\Program.cs",
-              "ToolTip": "D:\\Blog\\CrystalCourage\\back-end\\Program.cs",
-              "RelativeToolTip": "back-end\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T02:58:46.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Blog\\CrystalCourage\\back-end\\appsettings.Development.json",
               "RelativeDocumentMoniker": "back-end\\appsettings.Development.json",
@@ -331,7 +392,8 @@
               "RelativeToolTip": "back-end\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-05T02:58:34.316Z"
+              "WhenOpened": "2025-10-05T02:58:34.316Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -8,14 +8,8 @@ namespace back_end.controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class Users_Controller : ControllerBase
+    public class CommentController : ControllerBase
     {
-        [HttpPost]
-
-        public IActionResult CreateUser()
-        {
-            
-        }
-
+        
     }
 }
