@@ -1,1 +1,28 @@
-<p>articles works!</p>
+<div class="container mt-4">
+  <h2 class="text-center mb-4">Featured Blog Posts</h2>
+
+  <div id="blogCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active" *ngIf="posts.length">
+        <img [src]="posts[0].image" class="d-block w-100" alt="Post Image">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>{{ posts[0].title }}</h5>
+          <p>{{ posts[0].summary }}</p>
+        </div>
+      </div>
+      <div class="carousel-item" *ngFor="let post of posts.slice(1)">
+        <img [src]="post.image" class="d-block w-100" alt="Post Image">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>{{ post.title }}</h5>
+          <p>{{ post.summary }}</p>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#blogCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#blogCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </button>
+  </div>
+</div>
