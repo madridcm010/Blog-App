@@ -19,9 +19,20 @@ namespace back_end.repository
             await _context.SaveChangesAsync();
             return user;
         }
-        public async Task<UserModel> GetUserById(int id)
+        public async Task<UserModel> GetUserById(Guid id)
         {
             return await _context.Users.FindAsync(id);
+        }
+
+        public async Task<UserModel> GetByUsernameAsync(string Username)
+        {
+          return await _context.Users.FirstOrDefaultAsync(u=>u.Username = Username);
+        }
+
+        public async Task UpdateEmailAsync(UserModel user, string newEmail)
+        {
+          user.Email = newEmail;
+          await _context.SaveChangesAsync();
         }
     }
 }
