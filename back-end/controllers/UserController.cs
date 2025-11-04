@@ -6,6 +6,7 @@ using back_end.dtos.User;
 using back_end.Interfaces;
 using back_end.mappers;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace back_end.controllers
 {
@@ -21,7 +22,7 @@ namespace back_end.controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetUserById(int id)
+        public async Task<IActionResult> GetUserById(Guid id)
         {
             var user = await _userRepository.GetUserById(id);
             if (user == null)
@@ -34,7 +35,6 @@ namespace back_end.controllers
                 user.Email
             });
         }
-
         [HttpPost]
 
         public async Task<IActionResult> CreateUser([FromBody] User_Create_Dto user_create)
@@ -48,6 +48,21 @@ namespace back_end.controllers
                 usermodel.Email
             });
         }
+      [Authorize]
+      [HttpPut("UpdateEmail")]
+      public async Task<IActionResult> UpdateEmail([FromBody] Email_Update_Dto email_update)
+      {
+        var userName = User.Identity?.Name;
+        if(string.IsNullOrEmpty(UserName))
+        {
+          return Unauthorized();
 
+        }
+        var user = await _userRepository.GetByUsernameAsync(Username);
+        if(user == null)
+          return NotFound();
+        await _userRepository.UpdateEmailAsync(user, email_update.Email);
+        return NoContent();
+      }
     }
 }
