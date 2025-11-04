@@ -48,12 +48,12 @@ namespace back_end.controllers
                 usermodel.Email
             });
         }
-      [Authorize]
+ /*     [Authorize]
       [HttpPut("UpdateEmail")]
       public async Task<IActionResult> UpdateEmail([FromBody] Email_Update_Dto email_update)
       {
         var userName = User.Identity?.Name;
-        if(string.IsNullOrEmpty(UserName))
+        if(string.IsNullOrEmpty(Username))
         {
           return Unauthorized();
 
@@ -64,5 +64,6 @@ namespace back_end.controllers
         await _userRepository.UpdateEmailAsync(user, email_update.Email);
         return NoContent();
       }
+      */
     }
 }

@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj": {}
-  },
-  "projects": {
-    "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj",
-        "projectName": "back-end",
-        "projectPath": "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/back-end.csproj",
-        "packagesPath": "/home/mike/.nuget/packages/",
-        "outputPath": "/home/mike/CrystalGallery/Blog/CrystalCourage/back-end/obj/",
-=======
     "/home/mike/csharp/CrystalCourage/Blog-App/back-end/back-end.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "/home/mike/csharp/CrystalCourage/Blog-App/back-end/back-end.csproj",
         "packagesPath": "/home/mike/.nuget/packages/",
         "outputPath": "/home/mike/csharp/CrystalCourage/Blog-App/back-end/obj/",
->>>>>>> master
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mike/.nuget/NuGet/NuGet.Config"

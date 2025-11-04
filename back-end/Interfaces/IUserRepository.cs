@@ -8,7 +8,7 @@ namespace back_end.Interfaces
         Task<UserModel> CreateUser(UserModel User);
         //Task<UserModel> DeleteUser(UserModel User);
         Task<UserModel> GetUserById(Guid id);
-        Task<UserModel> GetByUsernameAsync(string username);
-        Task UpdateEmailAsync(UserModel User, string Email);
+        //Task<UserModel> GetByUsernameAsync(string username);
+        //Task UpdateEmailAsync(UserModel User, string Email);
     }
 }
