@@ -41,15 +41,10 @@ namespace back_end.controllers
         {
             var usermodel = user_create.ToUserFromCreateDto();
             await _userRepository.CreateUser(usermodel);
-            return CreatedAtAction(nameof(GetUserById), new { id = usermodel.UserID }, new
-            {
-                usermodel.UserID,
-                usermodel.Username,
-                usermodel.Email
-            });
+            return CreatedAtAction(nameof(GetUserById), new { id = usermodel.UserID }, usermodel.User_Create_Dto());
         }
  /*     [Authorize]
-      [HttpPut("UpdateEmail")]
+      [HttpPut("UpdateEmail"]
       public async Task<IActionResult> UpdateEmail([FromBody] Email_Update_Dto email_update)
       {
         var userName = User.Identity?.Name;
@@ -65,5 +60,7 @@ namespace back_end.controllers
         return NoContent();
       }
       */
+      [HttpDelete("DeleteUser")]
+      public async Task<IActionResult> DeleteUser([])
     }
 }
