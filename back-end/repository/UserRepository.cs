@@ -23,6 +23,13 @@ namespace back_end.repository
         {
             return await _context.Users.FindAsync(id);
         }
+        public async Task<UserModel> DeleteUser(Guid id)
+        {
+          var user = await _context.Users.FirstOrDefaultAsync(x => x.UserID == id);
+          _context.Users.Remove(user);
+          await _context.SaveChangesAsync();
+          return user;
+        }
 /*
         public async Task<UserModel> GetByUsernameAsync(string Username)
         {

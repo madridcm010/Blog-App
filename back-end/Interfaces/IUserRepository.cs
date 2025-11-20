@@ -6,7 +6,7 @@ namespace back_end.Interfaces
     public interface IUserRepository
     {
         Task<UserModel> CreateUser(UserModel User);
-        //Task<UserModel> DeleteUser(UserModel User);
+        Task<UserModel> DeleteUser(Guid id);
         Task<UserModel> GetUserById(Guid id);
         //Task<UserModel> GetByUsernameAsync(string username);
         //Task UpdateEmailAsync(UserModel User, string Email);

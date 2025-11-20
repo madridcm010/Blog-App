@@ -28,23 +28,21 @@ namespace back_end.controllers
             if (user == null)
                 return NotFound();
 
-            return Ok(new
-            {
-                user.UserID,
-                user.Username,
-                user.Email
-            });
+            return Ok(user.ToSafeDto());
         }
         [HttpPost]
 
         public async Task<IActionResult> CreateUser([FromBody] User_Create_Dto user_create)
         {
             var usermodel = user_create.ToUserFromCreateDto();
-            await _userRepository.CreateUser(usermodel);
-            return CreatedAtAction(nameof(GetUserById), new { id = usermodel.UserID }, usermodel.User_Create_Dto());
+            var createduser= await _userRepository.CreateUser(usermodel);
+            return CreatedAtAction(
+              nameof(GetUserById), 
+              new { id = createduser.UserID}, createduser.ToSafeDto()
+            );
         }
  /*     [Authorize]
-      [HttpPut("UpdateEmail"]
+      [HttpPut("{id}"]
       public async Task<IActionResult> UpdateEmail([FromBody] Email_Update_Dto email_update)
       {
         var userName = User.Identity?.Name;
@@ -60,7 +58,14 @@ namespace back_end.controllers
         return NoContent();
       }
       */
-      [HttpDelete("DeleteUser")]
-      public async Task<IActionResult> DeleteUser([])
+      [HttpDelete{"{id}"}]
+      public async Task<IActionResult> DeleteUser( Guid id)
+      {
+        var user = await _userRepository.DeleteUser(id);
+        if(user == null)
+          return NotFound();
+
+        return NoContent();
+      }
     }
 }
