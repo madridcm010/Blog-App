@@ -22,5 +22,15 @@ namespace back_end.mappers
 
            
         }
+        
+        public static object ToSafeDto(this UserModel user)
+    {
+        return new
+        {
+            user.UserID,
+            user.Username,
+            user.Email
+        };
+    }
     }
 }
